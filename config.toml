@@ -5,7 +5,7 @@ copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all r
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
-paginate = 3
+paginate = 4
 theme = "github.com/jonathanjanssens/hugo-casper3"
 title = "Hugo Themes"
 [[menu.main]]
@@ -30,11 +30,11 @@ url = "https://jonathanjanssens.com"
 weight = 40
 [params]
 description = "Just a demo site for the Casper3 theme ported to Hugo"
-facebook = "https://facebook.com"
-github = "https://github.com/jonathanjanssens"
-logo = "/images/ghost-transparent.png"
+facebook = ""
+github = ""
+logo = "/images/bt-logo-3.png"
 mainSections = ["post"]
-twitter = "https://twitter.com"
+twitter = ""
 [privacy.instagram]
 disabled = false
 simple = true
