@@ -3,7 +3,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = ""
 date = ""
 description = "A brief history of the Branham Tabernacle"
-feature_image = "/images/hugo.png"
+feature_image = "/images/history1-2.png"
 title = "History"
 
 +++
