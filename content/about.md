@@ -1,7 +1,7 @@
 +++
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-date = 2019-02-28T00:00:00Z
+author = ""
+date = ""
 description = "A brief history of the Branham Tabernacle"
 feature_image = "/images/hugo.png"
 title = "History"
