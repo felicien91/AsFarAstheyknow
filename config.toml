@@ -29,7 +29,7 @@ name = "Author Homepage"
 url = "https://jonathanjanssens.com"
 weight = 40
 [params]
-description = "Just a demo site for the Casper3 theme ported to Hugo"
+description = "It is just the same as standing right in the room"
 facebook = ""
 github = ""
 logo = "/images/bt-logo-3.png"
